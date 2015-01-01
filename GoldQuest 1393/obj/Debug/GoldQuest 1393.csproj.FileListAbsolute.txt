@@ -1,0 +1,10 @@
+C:\Fatemeh\Endless\Contest\Jadi\GoldQuest 1393\GoldQuest 1393\bin\Debug\GoldQuest 1393.exe
+C:\Fatemeh\Endless\Contest\Jadi\GoldQuest 1393\GoldQuest 1393\bin\Debug\GoldQuest 1393.pdb
+C:\Fatemeh\Endless\Contest\Jadi\GoldQuest 1393\GoldQuest 1393\obj\Debug\ResolveAssemblyReference.cache
+C:\Fatemeh\Endless\Contest\Jadi\GoldQuest 1393\GoldQuest 1393\obj\Debug\GoldQuest_1393.Properties.Resources.resources
+C:\Fatemeh\Endless\Contest\Jadi\GoldQuest 1393\GoldQuest 1393\obj\Debug\GoldQuest 1393.csproj.GenerateResource.Cache
+C:\Fatemeh\Endless\Contest\Jadi\GoldQuest 1393\GoldQuest 1393\obj\Debug\GoldQuest 1393.exe
+C:\Fatemeh\Endless\Contest\Jadi\GoldQuest 1393\GoldQuest 1393\obj\Debug\GoldQuest 1393.pdb
+C:\Fatemeh\Endless\Contest\Jadi\GoldQuest 1393\GoldQuest 1393\obj\Debug\GoldQuest_1393.frmMain.resources
+C:\Fatemeh\Endless\Contest\Jadi\GoldQuest 1393\GoldQuest 1393\obj\Debug\GoldQuest_1393.frmChart.resources
+C:\Fatemeh\Endless\Contest\Jadi\GoldQuest 1393\GoldQuest 1393\bin\Debug\System.Windows.Forms.DataVisualization.dll
